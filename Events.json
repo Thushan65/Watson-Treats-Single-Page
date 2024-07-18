@@ -1,0 +1,20 @@
+{"events":[
+    {
+        "id":"1",
+        "title":"Afternoon Tea",
+        "image":"Service1.jpg",
+        "description":"Indulge in the exquisite delight of afternoon tea at Watson Treats, Liverpool's premier cake shop. Immerse yourself in an ambiance of elegance and charm as you savor a selection of delectable treats, from freshly baked scones with clotted cream and preserves to delicate finger sandwiches bursting with flavor. Paired perfectly with our finest teas and coffees, this experience promises to delight your senses and create lasting memories. Join us for an unforgettable afternoon of indulgence and sophistication at Watson Treats."
+    },
+    {
+        "id":"2",
+        "title":"Parties",
+        "image":"Service2.jpg",
+        "description":"Make your party an unforgettable affair with Watson Treats' exceptional catering services. From intimate gatherings to lavish celebrations, we specialize in adding a touch of sweetness to every occasion. Treat your guests to a tantalizing array of handcrafted cakes, cupcakes, and pastries, expertly crafted to delight even the most discerning palates. Whether it's a birthday bash, baby shower, or anniversary soirée, let us bring our signature flair and flavor to your party. With Watson Treats, every moment becomes sweeter, and every celebration shines brighter. Let us cater to your every confectionery desire and turn your party into a truly indulgent experience."
+    },
+    {
+        "id":"3",
+        "title":"Events",
+        "image":"Service3.jpg",
+        "description":"Elevate your next event with the impeccable catering services of Watson Treats. Whether it's a wedding, birthday celebration, or corporate gathering, let us add a touch of sweetness to your special occasion. From intricately designed custom cakes to an array of exquisite pastries and desserts, our culinary creations will leave your guests enchanted. With attention to detail and a passion for perfection, Watson Treats ensures that every bite is a memorable delight. Trust us to make your event an extraordinary experience filled with delicious moments to cherish."
+    }
+]}
